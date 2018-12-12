@@ -1,4 +1,7 @@
-<!-- Created by: Jianfei Zhang    jianfei.zhang@live.ca -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC>
+<!-- Created by Jianfei Zhang, jianfei.zhang@live.ca -->
+<plist version="1.0">
 <dict>
 	<key>name</key>
 	<string>PlasticCodeWrap</string>
